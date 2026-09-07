@@ -1,0 +1,20 @@
+{
+  "lib/chainlink-brownie-contracts": {
+    "tag": {
+      "name": "0.6.1",
+      "rev": "c6d0ca512f1b09d93bc81415d246dbee7e5c6894"
+    }
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.8.2",
+      "rev": "978ac6fadb62f5f0b723c996f64be52eddba6801"
+    }
+  },
+  "lib/solmate": {
+    "tag": {
+      "name": "v6",
+      "rev": "a9e3ea26a2dc73bfa87f0cb189687d029028e0c5"
+    }
+  }
+}
